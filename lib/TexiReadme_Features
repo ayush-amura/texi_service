@@ -1,0 +1,25 @@
+Texi Booking Application.
+
+User :  1. Passenger
+	2. Driver
+	Signup/login(Both)
+
+Passenger:
+
+1.Pickup,destination,number of seats(CarType)/KMs to travel
+2.Fare estimation
+3.Driver Contact details and Car details
+4.Profile and stats
+5.Mode of payment
+6.Cancel request
+7.Offers
+
+
+Driver:
+
+1.Vehicle details and Personal Details
+2.Current status(free/taken/offline)
+3.Passenger location and Details(Contact number)
+4.Profile and stats
+5.feedback from passenger
+6.Fares increse in relation to avaliabilty  

@@ -1,0 +1,41 @@
+Class Flow
+
+Init -> Guide -> passenger(o/p) -> Guide -> Taxi(Final o/p)
+
+
+
+Class Guide
+
+	#welcome msg
+	introduction
+		
+	#Customer Details Parsing
+	#Instantiates PASSENGER
+	cust_detail
+		
+	#Taxi Detail Parsing
+	#Instantiates TAXI
+	taxi_detail
+  
+	conclusion	
+
+end
+
+
+Class Passenger
+	
+	#Initializing customer details and printing
+	Initialize
+
+end
+
+Class Taxi
+	
+	#Initialize taxi details
+	Initialize
+	
+	#Confirming the ride
+	Confirmation
+	
+	#Cab select Switch case statements	
+	Cab_select
